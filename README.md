@@ -1,6 +1,6 @@
 # Hardware
 ## Macbook Pro
-OS: macOS Mojave (staying here for now)
+OS: macOS Mojave (not upgrading)
 
 15" Mid 2015
 
