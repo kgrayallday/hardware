@@ -26,4 +26,4 @@ Intel i7-8700K @ 3.70GHz
 
 Acer CB2 34" Ultrawide 1440p
 
-NVIDIA GeForce GTX 1060 Ti (6GB)
+NVIDIA GeForce GTX 1060 (6GB)
