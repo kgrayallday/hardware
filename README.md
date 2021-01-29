@@ -18,12 +18,12 @@ OS: Debian Linux
 ## Desktop 
 OS: Dual Boot Windows 10 && Debian Linux
 
-Dell Optiplex
+Mother Board: Aurus Z370 Gaming Wifi
 
-Intel i7-3770 @ 3.40GHz
+Intel i7-8700K @ 3.70GHz
 
 16 GB
 
 Acer CB2 34" Ultrawide 1440p
 
-NVIDIA GeForce GTX 1050 Ti (4GB)
+NVIDIA GeForce GTX 1060 Ti (6GB)
