@@ -1,6 +1,6 @@
 # Hardware
 ## Macbook Pro
-OS: macOS Mojave (not upgrading)
+OS: macOS Mojave (Stay for 32 bit support)
 
 15" Mid 2015
 
