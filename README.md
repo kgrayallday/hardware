@@ -1,5 +1,5 @@
 # Hardware
-## Macbook Pro
+## 🍎 Macbook Pro
 OS: macOS Mojave (Stay for 32 bit support)
 
 15" Mid 2015
@@ -8,7 +8,7 @@ OS: macOS Mojave (Stay for 32 bit support)
 
 16 GB 1600 MHz DDR3
 
-## Macbook Air
+## 🐧 Macbook Air
 OS: Debian Linux
 
 13" Mid 2012 
